@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nadim Altaf 👋</h1>
+<h1 align="center">Nadim Altaf </h1>
 <h3 align="center">
 BTech CSE Student | Aspiring Machine Learning Engineer | Data Science Enthusiast | IBM Certified Data Analyst
 </h3>
@@ -17,7 +17,7 @@ BTech CSE Student | Aspiring Machine Learning Engineer | Data Science Enthusiast
 - 📈 Focus: ML, AI, Real-world Projects, and Open Source Contributions  
 - 💡 Passionate about building intelligent systems to solve real-life problems  
 - 📜 IBM Certified Data Analyst – Credential earned in 2025  
-- 📬 Reach me at: **your.email@example.com**
+- 📬 Reach me at: **nadimaltaf271@gmail.com**
 
 ---
 
